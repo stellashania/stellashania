@@ -1,7 +1,6 @@
 
 
-Hello, I am @stellashania, I am a forth-year undergraduate computer science student at Bina Nusantara University with an interest in front-end web development. I am self-motivated, hard-working, and passionate about leveraging and utilizing my web development skills to create websites with a heavy emphasis on great user experience. I am looking for an internship position where I can develop and make use of my skills to bring value to the company and my community, as well as to pursue a career as a web developer or UI/UX designer in the future. I love meeting new people and working in a team as I believe collaboration allows us to achieve greater things.
-
+Hello, I am @stellashania, I am a passionate UI/UX designer dedicated to crafting intuitive and innovative solutions. Graduating from Bina Nusantara University's Computer Science Global Class program, I developed a keen interest in app development and interface design. Through internships and projects as a Web Developer and UI/UX designer, I further honed my skills and gained hands-on experience in UI/UX design, as well as front-end and back-end development. I love meeting new people and working in a team as I believe collaboration allows us to achieve greater things. Currently, I am focused on UI/UX development, leveraging my experience from the Apple Developer Academy @BINUS to create engaging and intuitive user interfaces. Looking ahead, I am excited to expand my portfolio and continue growing as a UI/UX designer, aiming to deliver seamless digital experiences that delight users.
 
 <!---
 stellashania/stellashania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
